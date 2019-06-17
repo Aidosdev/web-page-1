@@ -18,8 +18,7 @@ img {
 
 .clearfix {
 	clear: both;
-	height: 5px;
-	background: yellow;
+	
 }
 
 .container {
@@ -129,6 +128,7 @@ img {
 }
 
 .bord input {
+	width: 89.2%;
 	float: left;
 	border: none;
 	font-size: 14px;
@@ -173,4 +173,5 @@ img {
 
 .style input {
 	padding: 20px 35px;
+	border-radius: 10px;
 }
