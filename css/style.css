@@ -18,6 +18,8 @@ img {
 
 .clearfix {
 	clear: both;
+	height: 5px;
+	background: yellow;
 }
 
 .container {
@@ -99,3 +101,76 @@ img {
 	margin-bottom: 135px;
 }
 
+
+.wrap {
+	background: #f0f0f0;
+}
+
+.container4 {
+	max-width: 893px;
+	margin: 0 auto;
+}
+
+.form {
+	text-align: center;
+	padding: 71px 0;
+}
+
+.form h2 {
+	margin-bottom: 80px;
+}
+
+
+.bord {
+	margin: 0 auto;
+	max-width: 300px;
+	border-bottom: 1px solid;
+	padding-bottom: 10px;
+}
+
+.bord input {
+	float: left;
+	border: none;
+	font-size: 14px;
+	background: #f0f0f0;
+}
+
+.bord img {
+	float: right;
+	width: 32px;
+	height: 17px;
+}
+
+.container5 {
+	max-width: 893px;
+	margin: 0 auto;
+	padding: 103px 0 60px 0;
+}
+
+.girl {
+	max-width: 420px;
+	float: left;
+}
+
+.away {
+	float: right;
+}
+
+.girl h2 {
+	margin-top: 69px;
+	margin-bottom: 38px;
+}
+
+.container6 {
+	max-width: 893px;
+	margin: 0 auto;
+	padding: 100px 0;
+}
+
+.style {
+	text-align: center;
+}
+
+.style input {
+	padding: 20px 35px;
+}
